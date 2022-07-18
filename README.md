@@ -1,1 +1,1 @@
-# TIL
+# Daily Log
